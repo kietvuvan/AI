@@ -1,0 +1,443 @@
+# 16.04.2018
+U. Mon 12h05 13m55
+H. Tue 08h36 14m19
+U. Tue 15h05 14m14
+H. Wed 06h41 14m48
+U. Wed 10h12 13m04
+H. Thu 06h40 13m19
+U. Thu 11h19 13m04
+H. Thu 12h56 13m04
+H. Fri 08h45 
+U. Fri 11h57 13m19
+H. Tue 08h46 15m32
+H. Thu 12h58 
+H. Wed 06h41 14m24
+U. Wed 10h25 13m06
+H. Thu 06h43 13m20
+H. Fri 08h23 14m03
+U. Fri 18h25 16m53
+H. Mon 08h27 13m42
+H. Tue 08h50 12m25
+U. Tue 15h48 14m20
+H. Wed 06h39 11m44
+U. Wed 10h20 13m10
+H. Thu 06h40 15m08
+U. Thu 11h40 13m33
+H. Thu 12h57 13m58
+H. Fri 08h39 15m57
+U. Fri 15h23 12m33
+U. Mon 11h19 15m00
+H. Tue 08h55 16m30
+U. Tue 15h24 
+H. Thu 07h27 16m47
+U. Thu 10h22 13m07
+H. Fri 11h54 13m50
+U. Fri 15h22 14m47
+H. Mon 13h58 16m34
+H. Wed 09h17 17m27
+U. Wed 11h34 14m10
+U. Mon 10h23 12m50
+H. Thu 12h35 12m13
+U. Thu 15h07
+H. Fri 12h37
+U. Fri 15h48 13m58
+U. Wed 17h39 24m20
+H. Sun 12h15 13m20
+U. Sun 15h20
+H. Wed 13h38 12m47
+H. Sat 05h56
+
+# 20.07.2018
+U. Fri 15h45
+H. Mon 07h49
+H. Thu 10h47
+H. Thu 09h19
+H. Fri 06h40
+H. Mon 06h42
+H. Tue 06h41
+U. Tue 12h06
+H. Wed 15h24
+H. Thu 08h45 
+H. Fri 06h42
+U. Fri 10h21
+H. Sun 07h22
+H. Mon 06h21
+U. Mon 12h16
+H. Tue 06h21
+U. Tue 09h24
+H. Wed 13h31
+U. Wed 18h21
+H. Thu 08h50 15m55
+U. Thu 17h35 24m25
+U. Mon 12h57
+U. Tue 09h11
+H. Wed 06h43
+H. Thu 08h52
+U. Thu 16h07 16m22
+H. Fri 06h41
+H. Mon 07h41
+U. Mon 11h40 14m22
+H. Tue 07h02 17m35
+H. Wed 15h25 16m26
+U. Wed 18h07 24m48
+H. Thu 07h26 18m30
+H. Mon 06h41 14m15
+U. Mon 12h09 13m05
+H. Tue 06h40 15m20
+U. Tue 12h24
+U. Wed 18h39 16m10
+H. Fri 06h43
+H. Mon 06h41 14m11
+U. Mon 09h22 15m47
+H. Tue 07h03 18m52
+H. Wed 06h40
+U. Wed 18h09
+U. Thu 18h06
+H. Fri 06h40 14m34
+U. Fri 10h04
+
+# 20.10.2018
+H. Sat 14h00 15m00
+U. Sat 17h45 14m20
+H. Mon 06h41 13m37
+U. Mon 12h05 13m14
+H. Tue 08h43 13m07
+H. Wed 15h24 
+
+# 25.10.2018
+Change the type of data
+U/H. Date. start. moving time. finish
+
+U. Thu. . . 18h13.
+H. Fri. 06h41. 12m37. .
+U. Fri. 10h03. 16m37. .
+H. Mon. 06h42. 15m28. .
+U. Mon. . . 12h12
+H. Tue. 07h36. 17m30. .
+U. Tue. 12h24. 13m06. .
+H. Wed. 06h40. 14m19. .
+U. Wed. 11h32. 13m40. .
+
+# 01.11.2018
+H. Thu. 08h38. . .
+U. Thu. . . 17h10.
+H. Fri. 06h42. 12m32. .
+U. Fri. 10h01. 15m52. .
+H. Tue. 06h40. 13m59. .
+U. Tue. . . 12h19.
+H. Wed. 15h22. 15m30. .
+U. Wed. 18h20. 15m25. .
+U. Thu. . . 18h49.
+H. Fri. 06h41. 12m48. .
+U. Fri. 11h18. 14m27. .
+H. Mon. 06h42. . .
+U. Mon. . . 12h04.
+H. Tue. 07h00. 17m18. .
+U. Tue. . . 12h27.
+U. Thu. 18h06. . .
+H. Mon. 06h42. 13m33. .
+U. Mon. 12h09. 12m57. .
+H. Tue. 06h41. . .
+U. Tue. 12h21. 14m23. .
+U. Wed. 11h41. 13m39. .
+H. Thu. 08h28. 16m50. .
+U. Thu. . . 19h01.
+H. Fri. 06h41. 13m10. .
+U. Fri. 10h19. . .
+H. Mon. 06h42.15m55. .
+U. Mon. . . 12h44.
+H. Tue. 07h03. 16m54. .
+U. Tue. . . 11h36.
+H. Wed. 06h41. 13m07. .
+U. Wed. . . 12h40.
+U. Thu. . . 18h50.
+
+#01.12.2018
+H. Mon. 07h02. . 07h17.
+H. Tue. 08h48. . .
+U. Tue. 12h26. 14m08. .
+H. Wed. 08h40. . 08h55.
+U. Wed. 11h57. 14m00. .
+H. Thu. 08h48. 14m57. .
+U. Thu. . . 17h13.
+H. Fri. 07h03. 13m04. .
+U. Fri. . . 10h27.
+H. Mon. 08h30. . .
+H. Tue. 06h42. 13m50. .
+U. Tue. 12h12. 12m50. .
+H. Wed. 08h58. . 09h26.
+H. Thu. 09h18. 14m13. .
+U. Thu. . . 19h42.
+H. Fri. 07h05. 17m42. .
+U. Fri. 10h45. 14m15. .
+H. Mon. 06h41. 12m58. .
+U. Mon. 12h38. . 12h50.
+H. Tue. 06h41. 12m55. .
+U. Tue. 09h49. 16m21. .
+H. Wed. 08h30. 15m58. .
+U. Wed. 11h38. 14m20. .
+H. Thu. 13h36. . .
+U. Thu. . . 19h20.
+H. Fri. 07h27. . .
+U. Fri. 10h47. . .
+
+#01.01.2019
+H. Wed. 07h29. . .
+U. Wed. . . 10h47.
+H. Fri. 07h04. 17m00. .
+U. Fri. . . 10h24.
+H. Fri. 07h28. . 07h47.
+H. Sun. 08h45. . 08h59.
+U. Sun. 12h00. . 12h15.
+H. Mon. 06h40. 14m13. .
+U. Mon. 12h05. . 12h19.
+H. Tue. 08h26. . .
+U. Tue. 12h11. 14m00. .
+H. Wed. 06h40. 11m02. .
+U. Wed. 16h12. 25m20. .
+H. Thu. 06h40. 12m50. .
+H. Fri. 07h02. 15m18. .
+U. Fri. 10h28. . .
+H. Mon. 06h43. 14m53. .
+U. Mon. 12h10. 14m27. .
+U. Tue. 12h04. 14m21. .
+H. Wed. 06h42. 13m53. .
+U. Wed. 12h07. 16m45. .
+H. Thu. 09h54. 16m50. .
+H. Fri. 07h02. . 07h16.
+U. Fri. 11h36. 18m03. .
+U. Sat. . . 17h44.
+H. Mon. 10h56. . .
+
+#01.02.2019
+U. Thu. . . 18h21.
+H. Mon. 06h40. 13m53. .
+U. Mon. 11h16. 13m46. .
+H. Wed. 07h02. 15m52. .
+U. Wed. 16h09. 16m33. .
+H. Thu. 07h02. 16m45. .
+U. Thu. 12h05. 14m10. .
+H. Fri. 06h41. 12m40. .
+U. Fri. 11h57. 16m32. .
+U. Sat. . . 16h23.
+H. Mon. 06h41. 14m20. .
+U. Mon. 12h19. . .
+H. Tue. 09h33. 13m45. .
+U. Tue. 17h42. . 17h58.
+H. Wed. 09h31. 14m12. .
+U. Wed. 12h19. 12m44. .
+H. Thu. 06h41. . 06h54.
+U. Thu. . . 19h10.
+H. Fri. 07h03. 15m47. .
+U. Fri. 10h37. 12m10. .
+H. Sat. 07h44. 13m14. .
+U. Sat. 10h56. . .
+U. Sat. . . 11h53.
+H. Sat. 13h40. 14m40. .
+U. Sat. . . 17h12.
+H. Sun. 13h16. . .
+H. Mon. 07h03. . 07h20.
+U. Mon. 12h04. 12m47. .
+H. Wed. 06h43. 15m16. .
+U. Wed. 16h01. 16m51. .
+H. Thu. 07h02. 13m54. .
+U. Thu. 18h04. 13m29. .
+
+#01.03.2019
+H. Fri. 07h05. 16m30. .
+H. Fri. 16h25. . .
+U. Sat. . . 17h35.
+H. Mon. 07h02. 15m20. .
+U. Mon. 12h05. 14m20. .
+H. Tue. 08h48. . 09h03.
+U. Tue. 12h23. 13m02. .
+H. Wed. 09h09. 14m00. .
+U. Wed. 12h03. 13m25. .
+H. Thu. 07h01. 15m20. .
+U. Thu. 15h06. . .
+U. Thu. . . 18h54.
+H. Fri. 07h03. 15m20. .
+H. Sat. 12h56. 13m52. .
+U. Sat. 15h48. 12m24. .
+H. Mon. 07h00. 13m17. .
+U. Mon. 12h02. 14m10. .
+H. Tue. 08h58. 14m27. .
+U. Tue. 12h13. 13m48. .
+H. Wed. 06h43. 12m51. .
+U. Wed. . . 14h38.
+H. Thu. 09h31. 15m16. .
+U. Thu. . . 19h00.
+H. Sat. 12h40. 15m01. .
+U. Sat. 16h10. 16m06. .
+H. Mon. 06h42. 13m25. .
+U. Mon. 12h07. 14m09. .
+H. Tue. 08h45. . 08h58.
+U. Tue. 12h31. 13m00. .
+H. Wed. 06h42. 13m53. .
+U. Wed. . . 16h27.
+H. Thu. 07h01. 13m54. .
+H. Thu. 19h35. . .
+H. Fri. 06h42. 13m25. .
+U. Fri. 10h16. 13m53. .
+H. Mon. 06h43. 13m48. .
+U. Mon. 11h55. 13m35. .
+H. Tue. 08h47. . .
+H. Tue. 09h02. . 09h18.
+U. Tue. 12h25. 12m03. .
+H. Wed. 06h43. 12m54. .
+U. Wed. 12h23. 14m11. .
+H. Thu. 06h41. 12m11. .
+U. Thu. . . 19h05.
+H. Fri. 08h14. . 08h32.
+U. Fri. 10h27. . 10h40.
+
+#01.04.2019
+H. Mon. 06h40. 13m25. .
+U. Mon. 11h19. 13m35. .
+H. Wed. 06h41. 12m45. .
+H. Thu. 08h34. 13m41. .
+U. Thu. 16m33. 17m32. .
+H. Fri. 06h39. . 06h52.
+U. Fri. 10h23. 13m26. .
+H. Tue. 08h44. . 09h01.
+U. Tue. 12h13. 13m56. .
+H. Wed. 09h33. . 09h51.
+U. Wed. . . 16h25.
+H. Thu. 07h02. 18m47. .
+U. Thu. 17h27. 23m40. .
+H. Fri. 06h42. 14m23. .
+U. Fri. 10h13. 15m11. .
+H. Mon. . . 06h53.
+U. Mon. 12h10. . 12h23.
+H. Tue. 08h51. . 09h04.
+U. Tue. 12h21. 13m40. .
+H. Wed. 06h41. 13m33. .
+U. Wed. . . 12h41.
+H. Thu. 06h39. . 06h52.
+U. Thu. 12h36. 14m24. .
+H. Fri. 06h39. 12m58. .
+U. Fri. . . 11h40.
+H. Sat. 07h02. 12m35. .
+H. Sun. 12h33. . .
+
+#01.05.2019
+H. Thu. 07h25. 20m27. .
+U. Thu. . . 18h32.
+U. Sat. 12h03. 18m26. .
+H. Thu. 10h23. 13m32. .
+U. Thu. 16h52. . 17h08.
+H. Fri. 07h05. 12m20. .
+U. Fri. . . 12h45.
+H. Tue. 06h39. 11m43. .
+U. Tue. 12h16. 13m01. .
+H. Wed. 09h28. 13m50. .
+U. Wed. 12h21. 13m44. .
+H. Thu. 06h40. 13m01. .
+H. Fri. 15h24. . .
+U. Fri. . . 17h22.
+U. Thu. 16h58. . 17h16.
+H. Thu. 07h24. 15m14. .
+U. Thu. . . 17h38.
+
+#01.06.2019
+H. Thu. 12h35. . 12h48.
+U. Thu. . . 18h23.
+H. Sat. 07h22. 12m39. .
+U. Sat. 09h59. 16m53. .
+H. Tue. 07h24. 16m39. .
+U. Tue. . . 11h36.
+H. Tue. 15h03. . 15h18.
+U. Tue. . . 17h42.
+H. Thu. 12h34. . 12h48.
+U. Thu. 15h26. . .
+H. Fri. 08h16. 16m06. .
+U. Fri. 11h16. 13m23. .
+
+#22.08.2019
+H. Thu. 13h39. . .
+U. Thu. 17h45. . .
+U. Fri. 11h23. . .
+
+#01.09.2019
+H. Tue. 06h41. . .
+H. Wed. 08h36. . .
+U. Wed. 12h15. . .
+H. Fri. 06h40. . .
+U. Fri. 12h30. . .
+H. Sun. 10h52. . .
+U. Tue. 11h03. . .
+H. Wed. 08h40. . .
+H. Thu. 06h41. . .
+U. Thu. 10h20. . .
+H. Fri. 12h56. . .
+H. Sun. 11h53. . .
+H. Mon. 07h01. . .
+H. Tue. 07h02. . .
+H. Fri. 07h03. . .
+H. Sun. 07h22. . .
+H. Mon. 09h40. . .
+H. Tue. 07h04. . .
+U. Tue. 12h20. . .
+H. Wed. 08h44. . .
+
+
+#01.10.2019
+H. Wed. 08h35. . .
+H. Fri. 08h46. . .
+H. Mon. 09h32. . .
+H. Tue. 06h40. . .
+H. Wed. 08h42. . .
+H. Fri. 07h00. . .
+U. Fri. 11h30. . .
+H. Tue. 07h03. . .
+H. Tue. 15h02. . .
+H. Wed. 08h42. . .
+H. Tue. 07h04. . .
+U. Wed. 15h10. . .
+H. Thu. 07h01. . .
+U. Thu. 10h18. . .
+H. Mon. 10h14. . .
+H. Tue. 06h40. . .
+U. Thu. 10h10. . .
+
+#01.11.2019
+H. Fri. 07h04. . .
+H. Mon. 06h40. . .
+H. Tue. 06h40. . .
+H. Wed. 08h28. . .
+U. Thu. 11h38. . .
+H. Fri. 06h40. . .
+H. Mon. 07h03. . .
+H. Tue. 07h03. . .
+H. Wed. 08h29. . .
+U. Wed. 11h34. . .
+H. Thu. 07h00. . .
+U. Fri. 15h33. . .
+H. Mon. 09h27. . .
+U. Mon. 16h16. . .
+H. Tue. 06h40. . .
+H. Wed. 08h45. . .
+H. Thu. 06h41. . .
+H. Fri. 12h59. . .
+H. Mon. 06h40. . .
+H. Thu. 06h40. . .
+H. Fri. 06h40. . .
+H. Sat. 07h02. . .
+U. Sat. 11h25. . .
+
+#01.12.2019
+H. Mon. 09h42. . .
+H. Tue. 09h37. . .
+H. Thu. 06h40. . .
+H. Fri. 07h02. . .
+H. Mon. 12h54. . .
+H. Thu. 15h24. . .
+H. Fri. 06h40. . .
+U. Fri. 16h10. . .
+H. Mon. 09h48. . .
+H. Tue. 12h26. . .
+
+#01.03.2020
+H. Thu. 06h40. . .
+H. Fri. 09h30. . .
+U. Fri. 12h06. . .
